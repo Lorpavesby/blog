@@ -1,0 +1,8 @@
+[submodule "lorpavesblog/pubilc"]
+	path = lorpavesblog/pubilc
+	url = https://github.com/Lorpavesby/Lorpavesby.github.io.git
+	branch = main
+[submodule "lorpavesblog/public"]
+	path = lorpavesblog/public
+	url = https://github.com/Lorpavesby/Lorpavesby.github.io.git
+	branch = main
